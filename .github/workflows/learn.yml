@@ -10,4 +10,4 @@ jobs:
       # with:
       #   ruby-version: '2.6' 
     - run: ruby -v
-    - run: apt install hugo
+    - run: sudo apt-get install hugo
